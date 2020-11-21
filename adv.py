@@ -28,7 +28,7 @@ player = Player(world.starting_room)
 # traversal_path = ['n', 'n']
 traversal_path = []
 
-# backwords path...
+# backwards path...
 returnPath = []
 revDirections = {'n': 's', 's': 'n', 'e': 'w', 'w': 'e'}
 
